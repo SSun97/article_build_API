@@ -1,1 +1,1 @@
-Ethen,    Fred,    George,    Harry,    Ivan,  Adam, Adam
+Ethen, Fred, George, Harry, Ivan
